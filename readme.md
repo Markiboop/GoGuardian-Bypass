@@ -27,7 +27,7 @@ Here's a very basic example of how it works:
 <!DOCTYPE html>
 <html>
   <body>
-    <iframe src='YOUR URL'></iframe>
+    <iframe src='discord.com'></iframe>
   </body>
 </html>
 ```
